@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class HelloController {
     @RequestMapping("/say.html")
     public @ResponseBody String say() {
-        return "Hello Spring Boot2!";
+        return "Hello Spring Boot2! Bye!";
     }
 }
