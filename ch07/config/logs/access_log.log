@@ -1,0 +1,10 @@
+127.0.0.1 - - [29/Mar/2019:10:08:17 +0800] "GET /test/showvalue.html HTTP/1.1" 200 10
+127.0.0.1 - - [29/Mar/2019:10:08:17 +0800] "GET /favicon.ico HTTP/1.1" 200 946
+127.0.0.1 - - [29/Mar/2019:10:08:37 +0800] "GET /test/showvalue.html HTTP/1.1" 200 10
+127.0.0.1 - - [29/Mar/2019:10:08:37 +0800] "GET /favicon.ico HTTP/1.1" 200 946
+127.0.0.1 - - [29/Mar/2019:10:08:37 +0800] "GET /test/showvalue.html HTTP/1.1" 200 10
+127.0.0.1 - - [29/Mar/2019:10:08:38 +0800] "GET /favicon.ico HTTP/1.1" 200 946
+127.0.0.1 - - [29/Mar/2019:10:08:38 +0800] "GET /test/showvalue.html HTTP/1.1" 200 10
+127.0.0.1 - - [29/Mar/2019:10:08:38 +0800] "GET /favicon.ico HTTP/1.1" 200 946
+127.0.0.1 - - [29/Mar/2019:10:08:38 +0800] "GET /test/showvalue.html HTTP/1.1" 200 10
+127.0.0.1 - - [29/Mar/2019:10:08:38 +0800] "GET /favicon.ico HTTP/1.1" 200 946

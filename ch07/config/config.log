@@ -1,0 +1,20 @@
+INFO 2019-03-29 10:07:25,672 [main] c.m.l.c.c.ConfigApplicationTests.logStarting 50 :Starting ConfigApplicationTests on MyZiyue-MacBook-Pro.local with PID 814 (started by myziyue in /Users/myziyue/project/github/learn-spring-boot2/ch07/config)
+DEBUG 2019-03-29 10:07:25,673 [main] c.m.l.c.c.ConfigApplicationTests.logStarting 53 :Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+INFO 2019-03-29 10:07:25,674 [main] c.m.l.c.c.ConfigApplicationTests.logStartupProfileInfo 675 :No active profile set, falling back to default profiles: default
+INFO 2019-03-29 10:07:27,838 [main] c.m.l.c.c.ConfigApplicationTests.logStarted 59 :Started ConfigApplicationTests in 6.163 seconds (JVM running for 7.429)
+INFO 2019-03-29 10:07:55,366 [main] c.m.l.c.c.ConfigApplication.logStarting 50 :Starting ConfigApplication v0.0.1-SNAPSHOT on MyZiyue-MacBook-Pro.local with PID 826 (/Users/myziyue/project/github/learn-spring-boot2/ch07/config/target/config-0.0.1-SNAPSHOT.jar started by myziyue in /Users/myziyue/project/github/learn-spring-boot2/ch07/config)
+DEBUG 2019-03-29 10:07:55,371 [main] c.m.l.c.c.ConfigApplication.logStarting 53 :Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+INFO 2019-03-29 10:07:55,371 [main] c.m.l.c.c.ConfigApplication.logStartupProfileInfo 679 :The following profiles are active: prod
+WARN 2019-03-29 10:07:56,836 [main] i.u.websockets.jsr.handleDeployment 68 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-03-29 10:07:56,862 [main] io.undertow.servlet.log 364 :Initializing Spring embedded WebApplicationContext
+INFO 2019-03-29 10:07:57,662 [main] c.m.l.c.c.ConfigApplication.logStarted 59 :Started ConfigApplication in 6.335 seconds (JVM running for 6.903)
+INFO 2019-03-29 10:08:17,236 [XNIO-2 task-1] io.undertow.servlet.log 364 :Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO 2019-03-29 10:08:21,285 [Thread-3] io.undertow.servlet.log 364 :Destroying Spring FrameworkServlet 'dispatcherServlet'
+INFO 2019-03-29 10:08:33,131 [main] c.m.l.c.c.ConfigApplication.logStarting 50 :Starting ConfigApplication v0.0.1-SNAPSHOT on MyZiyue-MacBook-Pro.local with PID 831 (/Users/myziyue/project/github/learn-spring-boot2/ch07/config/target/config-0.0.1-SNAPSHOT.jar started by myziyue in /Users/myziyue/project/github/learn-spring-boot2/ch07/config)
+DEBUG 2019-03-29 10:08:33,135 [main] c.m.l.c.c.ConfigApplication.logStarting 53 :Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+INFO 2019-03-29 10:08:33,136 [main] c.m.l.c.c.ConfigApplication.logStartupProfileInfo 675 :No active profile set, falling back to default profiles: default
+WARN 2019-03-29 10:08:35,017 [main] i.u.websockets.jsr.handleDeployment 68 :UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+INFO 2019-03-29 10:08:35,066 [main] io.undertow.servlet.log 364 :Initializing Spring embedded WebApplicationContext
+INFO 2019-03-29 10:08:36,115 [main] c.m.l.c.c.ConfigApplication.logStarted 59 :Started ConfigApplication in 7.139 seconds (JVM running for 7.693)
+INFO 2019-03-29 10:08:37,044 [XNIO-2 task-1] io.undertow.servlet.log 364 :Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO 2019-03-29 10:09:16,236 [Thread-3] io.undertow.servlet.log 364 :Destroying Spring FrameworkServlet 'dispatcherServlet'
